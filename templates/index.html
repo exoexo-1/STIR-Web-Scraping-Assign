@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trending Fetcher</title>
+</head>
+<body>
+    <h1>Welcome to the Trending Fetcher</h1>
+
+    <!-- Button to fetch trends -->
+    <form action="/fetch-trends" method="get">
+        <button type="submit">Click here to run the query</button>
+    </form>
+
+    {% if trends %}
+    <h2>These are the most happening topics as on : {{ time }}</h2>
+    <ul>
+        {% for trend in trends %}
+        <li>{{ trend }}</li>
+        {% endfor %}
+    </ul>
+    <h2>The IP address used for this query was {{ ip_address }}</h2>
+    {% endif %}
+
+</body>
+</html>
