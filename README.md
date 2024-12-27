@@ -43,8 +43,14 @@ Open your browser and go to http://127.0.0.1:5000 to access the application.
 
 Screenshots
 Below are some screenshots of the application:
+![WhatsApp Image 2024-12-27 at 15 54 35_729cf302](https://github.com/user-attachments/assets/948ae1db-aab9-412e-aa47-f1a9299e9ff9)
 
 
 
 Video Demo
 Watch the video demonstration of the project here:
+
+https://github.com/user-attachments/assets/dfa33160-7ac2-49d1-be7d-0da8efdf1bf6
+
+
+
