@@ -21,22 +21,23 @@ This repository contains the completed task for the Stir Tech Internship via Int
 ### 1. Clone the repository
 Clone the repository using the command:
 
-'''
+```bash
 git clone <repository_url>
-'''
+```
 2. Install dependencies
 Install the required dependencies by running:
-
-
+```bash
 pip install -r requirements.txt
+```
 3. Update configuration
 Update the config.py file with your Webshare proxy credentials and MongoDB URI.
 
 4. Run the Flask app
 Start the Flask application by running the following command:
 
-
+```bash
 python app.py
+```
 5. Access the application
 Open your browser and go to http://127.0.0.1:5000 to access the application.
 
