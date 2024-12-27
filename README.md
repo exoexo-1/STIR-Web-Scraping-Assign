@@ -45,6 +45,10 @@ Screenshots
 Below are some screenshots of the application:
 ![WhatsApp Image 2024-12-27 at 15 54 35_729cf302](https://github.com/user-attachments/assets/948ae1db-aab9-412e-aa47-f1a9299e9ff9)
 
+![WhatsApp Image 2024-12-27 at 15 54 36_a9f504df](https://github.com/user-attachments/assets/1ad9c963-c662-41f5-88db-ed18882fec79)
+![WhatsApp Image 2024-12-27 at 15 54 36_732f7806](https://github.com/user-attachments/assets/2d1ad41f-8894-425c-9546-5797fd1d72a3)
+![WhatsApp Image 2024-12-27 at 15 54 36_3e8d0175](https://github.com/user-attachments/assets/94c193a4-1fb0-4f4f-86e4-8c7a1c1e9e77)
+![WhatsApp Image 2024-12-27 at 15 54 35_a59e5190](https://github.com/user-attachments/assets/4cce7aae-1115-4e21-88e3-9388e436fb76)
 
 
 Video Demo
