@@ -21,8 +21,9 @@ This repository contains the completed task for the Stir Tech Internship via Int
 ### 1. Clone the repository
 Clone the repository using the command:
 
-```bash
+
 git clone <repository_url>
+
 2. Install dependencies
 Install the required dependencies by running:
 
